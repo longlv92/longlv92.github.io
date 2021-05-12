@@ -58,11 +58,12 @@ a, a:hover{
 }
 
 .banner_top .banner_cover{
-	display: flex;
+	display: block;
 }
 
 .banner_top .banner_cover img{
 	max-width: 100%;
+	height: auto;
 }
 
 .banner_top .banner_text{
